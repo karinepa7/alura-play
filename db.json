@@ -60,36 +60,43 @@
       "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
       "descricao": "1 mil visualizações",
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 9
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "9 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 10
     },
     {
       "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
+      "descricao": "9 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 11
     },
     {
       "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
+      "descricao": "9 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Tutorial Google AI Studio: como usar o Gemini? | IAs Generativas",
+      "descricao": "4,7 mil visualizações",
+      "url": "https://www.youtube.com/embed/UelauoeMaGw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 13
+    },
+    {
+      "titulo": "Guia de Carreira: DevOps",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/VfC5QyP4n9s",
+      "imagem": "https://yt3.ggpht.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": 14
     }
   ]
 }
